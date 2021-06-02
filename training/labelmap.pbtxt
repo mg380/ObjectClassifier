@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'Normal Cell'
+}
+item {
+    id: 2
+    name: 'Signal Cell'
+}
